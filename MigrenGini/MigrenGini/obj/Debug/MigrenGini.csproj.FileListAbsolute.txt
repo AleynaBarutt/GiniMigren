@@ -1,0 +1,10 @@
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\bin\Debug\MigrenGini.exe.config
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\bin\Debug\MigrenGini.exe
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\bin\Debug\MigrenGini.pdb
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.csproj.AssemblyReference.cache
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.Form1.resources
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.Properties.Resources.resources
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.csproj.GenerateResource.cache
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.csproj.CoreCompileInputs.cache
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.exe
+C:\Users\aleyn\source\repos\MigrenGini\MigrenGini\obj\Debug\MigrenGini.pdb
